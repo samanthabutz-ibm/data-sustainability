@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    nauman:
+      email: nauman@gmail.com
+      name: nauman
+      password: '$2b$12$bGobrw13eICGwyPUhxCHfes0LFnQm6LfePxOLrnAJGtTBM5qL6i1O' # To be replaced with hashed password
+    sagar:
+      email: sagar@gmail.com
+      name: Sagar
+      password: '$2b$12$wbGytEPYrpfq4r3h7eHVf.a/XKQlgCkHnJqEkEoPLB8qFFlN3bxTW' # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - nauman@gmail.com

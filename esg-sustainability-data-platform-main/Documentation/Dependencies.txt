@@ -1,0 +1,23 @@
+Required Libraries:
+
+
+1. pip install streamlit
+
+2. pip install streamlit-authenticator
+
+3. pip install snowflake-snowpark-python
+
+4. pip install streamlit-scrollable-textbox (for scrollable text)
+
+5. pip install streamlit-modal (for popups)
+
+6. pip install pulp (for dashboard_3)
+
+7. pip install streamlit-elements 
+
+
+9. For displaying matplotlib figures:
+pip install pyqt5
+pip install tk
+pip install plotly 
+

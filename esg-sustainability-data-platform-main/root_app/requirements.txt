@@ -1,0 +1,8 @@
+matplotlib
+plotly
+hydralit-components
+snowflake-connector-python
+snowflake-snowpark-python
+streamlit
+streamlit-authenticator
+streamlit_scrollable_textbox
